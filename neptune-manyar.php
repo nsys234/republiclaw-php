@@ -66,10 +66,10 @@
 				<div class="attor-details-item">
 					<div class="attor-details-right">
 						<div class="attor-details-name">
-							<h1>David Ike</h1>
+							<h1>Neptune Manyar</h1>
 							<h3 style="color: #C8B085; padding-bottom: 0px;">Student-At-Law</h3>
 						</div>
-						
+			
 						<div class="accordion accordion-flush" id="accordionFlushExample">
 							 <div class="accordion-item">
 								<h2 class="accordion-header" id="flush-headingOne">

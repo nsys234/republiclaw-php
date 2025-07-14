@@ -144,6 +144,7 @@
 						</div>
 						<!--bindings={}-->
 					</div>
+					<?php /**
 					<div _ngcontent-ruf-c3="" class="row">
 						
 						<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
@@ -179,6 +180,7 @@
 						
 						<!--bindings={}-->
 					</div>
+					**/  ?>
 				</div>
 			</section>
 		</app-lawyer> 

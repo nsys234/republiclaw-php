@@ -34,10 +34,12 @@
                         <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'David Ike'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,3,Devid Ike" href="<?php echo SITE_URL; ?>david-ike">David Ike</a>
                         </li>
+                        <?php /**
                         <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Neptune Manyar'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,4,Neptune Manyar" href="<?php echo SITE_URL; ?>neptune-manyar">Neptune Manyar</a>
                         </li>
                         <!--bindings={"ng-reflect-ng-for-of": "[object Object],[object Object" }-->
+                        ** ?>
                       </ul>
                     </li>
                     <li _ngcontent-ruf-c19="" class="nav-item">

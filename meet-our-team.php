@@ -52,7 +52,7 @@
 								</div>
 							</div>
 						</div>
-						<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+					<!-- 	<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,1,George Akpan">
 								<a href="
 											<?php echo SITE_URL;?>george-akpan">
@@ -70,9 +70,9 @@
 									<ul _ngcontent-ruf-c3="" style="list-style: none; padding: 0; margin: 0;">
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-envelope"></i>
-											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="mailto:georgeakpan@republiclaw.ca"> georgeakpan@republiclaw.ca </a>
+											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="mailto:georgeakpan@republiclaw.ca"> georgeakpan@republiclaw.ca </a> -->
 											<!--bindings={"ng-reflect-ng-if": "georgeakpan@republiclaw.ca"}-->
-										</li>
+									<!-- 	</li>
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-phone"></i>
 											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="tel:1-587-319-5916 Ext. 103"> 1-587-319-5916 Ext. 103 </a>
@@ -81,7 +81,7 @@
 									</ul>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!--<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,2,Theodore Owar">
 								<a href="

@@ -25,9 +25,9 @@
                         <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Ugo Ukpabi K. C.'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,0,Ugo Ukpabi" href="<?php echo SITE_URL; ?>ugo-ukpabi">Ugo Ukpabi</a>
                         </li>
-                        <li _ngcontent-ruf-c19="" class="nav-item">
+                        <!-- <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'George Akpan'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,1,George Akpan" href="<?php echo SITE_URL; ?>george-akpan">George Akpan</a>
-                        </li>
+                        </li>-->
                        <!-- <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php // if ($page_name == 'Theodore Oware'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php // echo SITE_URL; ?>meet-our-team,2,Theodore Owar" href="<?php // echo SITE_URL; ?>theodore-oware">Theodore Oware</a>
                         </li>-->

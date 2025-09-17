@@ -1,4 +1,4 @@
 <?php 
-header('Location: https://republiclaw.ca');
+header("Location: https://republiclaw.ca");
 exit();
 >?

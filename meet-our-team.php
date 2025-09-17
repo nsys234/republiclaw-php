@@ -55,7 +55,7 @@
 					<!-- 	<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,1,George Akpan">
 								<a href="
-											<?php echo SITE_URL;?>george-akpan">
+											<?php // echo SITE_URL;?>george-akpan">
 									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/george.webp">
 								</a>
 							</div>
@@ -63,7 +63,7 @@
 								<div _ngcontent-ruf-c3="" class="lawyer-card" style="padding: 15px;">
 									<h3 _ngcontent-ruf-c3="" style="padding-top: 10px; color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,1,George Akpan">
 										<a _ngcontent-ruf-c3="" href="
-														<?php echo SITE_URL;?>george-akpan" style="color: #142233;">George Akpan </a>
+														<?php // echo SITE_URL;?>george-akpan" style="color: #142233;">George Akpan </a>
 									</h3>
 									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,1,George Akpan">Senior Associate</span>
 									<hr _ngcontent-ruf-c3="" style="color: #142233;">
@@ -76,7 +76,7 @@
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-phone"></i>
 											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="tel:1-587-319-5916 Ext. 103"> 1-587-319-5916 Ext. 103 </a>
-											<!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext. 103"}-->
+											<!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext. 103"}--
 										</li>
 									</ul>
 								</div>

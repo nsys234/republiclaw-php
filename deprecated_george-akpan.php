@@ -1,4 +1,5 @@
 <?php
+header('Location: https://Republic law.ca');
 	include_once ( 'inc/config.php' );
 	include_once ( 'inc/functions.php' );
 	$page_name = 'George Akpan';

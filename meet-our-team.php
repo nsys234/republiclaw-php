@@ -162,8 +162,8 @@
 									<ul _ngcontent-ruf-c3="" style="list-style: none; padding: 0; margin: 0;">
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-envelope"></i>
-											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="mailto:harriet.igwe@republiclaw.ca"> harret.igwe@republiclaw.ca </a>
-											<!--bindings={"ng-reflect-ng-if": "harriet.igwe@republiclaw.ca"}-->
+											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="mailto:harrieti@republiclaw.ca"> HarrietI@republiclaw.ca </a>
+											<!--bindings={"ng-reflect-ng-if": "harrieti@republiclaw.ca"}-->
 										</li>
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-phone"></i>

@@ -144,6 +144,39 @@
 						</div>
 						<!--bindings={}-->
 					</div>
+
+					<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,David Ike">
+								<a href="
+									<?php echo SITE_URL;?>harriet-okeke">
+									<img _ngcontent-ruf-c3="" alt="Team" style="flex: 1; object-fit: cover; object-position: center;" srcset="images/dummy.png">
+								</a>
+							</div>
+							<div _ngcontent-ruf-c3="" class="team-item" style="background-color: #ecececb4; padding: 0px;">
+								<div _ngcontent-ruf-c3="" class="lawyer-card" style="padding: 15px;">
+									<h3 _ngcontent-ruf-c3="" style="padding-top: 10px; color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,David Ike">
+										<a _ngcontent-ruf-c3="" href="
+												<?php echo SITE_URL;?>david-ike" style="color: #142233;">Harriet Okeke </a>
+									</h3>
+									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Hariet Okeke">Student-At-Law</span>
+									<hr _ngcontent-ruf-c3="" style="color: #142233;">
+									<ul _ngcontent-ruf-c3="" style="list-style: none; padding: 0; margin: 0;">
+										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
+											<i _ngcontent-ruf-c3="" class="icofont-envelope"></i>
+											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="mailto:harriet.okeke@republiclaw.ca"> harret.okeke@republiclaw.ca </a>
+											<!--bindings={"ng-reflect-ng-if": "harriet.okeke@republiclaw.ca"}-->
+										</li>
+										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
+											<i _ngcontent-ruf-c3="" class="icofont-phone"></i>
+											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="tel:1-587-319-5916 Ext 104"> 1-587-319-5916 Ext: 104 </a>
+											<!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext 104"}-->
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!--bindings={}-->
+					</div>
 					<?php /**
 					<div _ngcontent-ruf-c3="" class="row">
 						

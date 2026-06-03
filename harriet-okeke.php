@@ -1,7 +1,7 @@
 <?php
 	include_once ( 'inc/config.php' );
 	include_once ( 'inc/functions.php' );
-	$page_name = 'Harriet Okeke';
+	$page_name = 'Harriet Igwe';
 	$page_parent = 'Meet Our Team';
 	$page_desc = 'Harriet is a dual-qualified lawyer admitted to practice in Canada and Nigeria and is currently an Associate at The Republic Law in Alberta. She brings over seven years of experience spanning legal practice, policy advisory, and international development.';
 	$page_image = 'images/dummy.jpg';
@@ -22,7 +22,7 @@
             <div class="col-lg-5 col-lg-1 col-md-6">
               <div class="attor-details-item">
                 <div class="attor-details-name">
-                  <h1>Harriet Okeke</h1>
+                  <h1>Harriet Igwe</h1>
                   <h3 style="color: #C8B085; padding-bottom: 0px;">Student-At-Law</h3>
                 </div>
                 <img alt="Details" class="lawyer-img" srcset="images/dummy.png">
@@ -37,9 +37,9 @@
                       <!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext. 104"}-->
                       <li class="ng-star-inserted">
                         <i class="flaticon-email" style="padding-right: 10px;"></i>
-                        <a href="mailto:harriet.okeke@republiclaw.ca">harriet.okeke@republiclaw.ca</a>
+                        <a href="mailto:harriet.igwe@republiclaw.ca">harriet.igwe@republiclaw.ca</a>
                       </li>
-                      <!--bindings={"ng-reflect-ng-if": "harriet.okeke@republiclaw.ca"}-->
+                      <!--bindings={"ng-reflect-ng-if": "harriet.igwe@republiclaw.ca"}-->
                       <li class="ng-star-inserted">
                         <i style="padding-right: 10px;" class="icofont-linkedin"></i>
                        <!-- <a target="_blank" href="https://ca.linkedin.com/in/david-ike-phd-60897a7" class="ng-star-inserted">LinkedIn Profile</a>-->
@@ -52,7 +52,7 @@
                 <!--<div class="attor-prev">
                   <ul>
                     <li ng-reflect-ng-class="nav-prev" class="nav-prev">
-                      <a ng-reflect-router-link="/meet-our-team,0,Ugo Ukpabi" href="/meet-our-team/0/Ugo%20Ukpabi">Previous</a>
+                      <a ng-reflect-router-link="/meet-our-team,4,Harriet Igwe" href="/meet-our-team/0/Ugo%20Ukpabi">Previous</a>
                     </li>
                     <li ng-reflect-ng-class="nav-prev" class="nav-prev">
                       <a ng-reflect-router-link="/meet-our-team,2,Theodore Owar" href="/meet-our-team/2/Theodore%20Oware">Next</a>
@@ -65,7 +65,7 @@
 				<div class="attor-details-item">
 					<div class="attor-details-right">
 						<div class="attor-details-name">
-							<h1>Harriet Okeke</h1>
+							<h1>Harriet Igwe</h1>
 							<h3 style="color: #C8B085; padding-bottom: 0px;">Student-At-Law</h3>
 						</div>
 						

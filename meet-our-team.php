@@ -155,9 +155,9 @@
 								<div _ngcontent-ruf-c3="" class="lawyer-card" style="padding: 15px;">
 									<h3 _ngcontent-ruf-c3="" style="padding-top: 10px; color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Harriet Igwe">
 										<a _ngcontent-ruf-c3="" href="
-												<?php echo SITE_URL;?>harriet-okeke" style="color: #142233;">Harriet Igwe </a>
+												<?php echo SITE_URL;?>harriet-igwe" style="color: #142233;">Harriet Igwe </a>
 									</h3>
-									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Hariet Igwe">Student-At-Law</span>
+									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Hariet Igwe"></span>
 									<hr _ngcontent-ruf-c3="" style="color: #142233;">
 									<ul _ngcontent-ruf-c3="" style="list-style: none; padding: 0; margin: 0;">
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">

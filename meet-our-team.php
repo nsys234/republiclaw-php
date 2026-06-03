@@ -143,9 +143,8 @@
 							</div>
 						</div>
 						<!--bindings={}-->
-					</div>
-
-					<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+						
+						<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,David Ike">
 								<a href="
 									<?php echo SITE_URL;?>harriet-okeke">
@@ -156,7 +155,7 @@
 								<div _ngcontent-ruf-c3="" class="lawyer-card" style="padding: 15px;">
 									<h3 _ngcontent-ruf-c3="" style="padding-top: 10px; color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,David Ike">
 										<a _ngcontent-ruf-c3="" href="
-												<?php echo SITE_URL;?>david-ike" style="color: #142233;">Harriet Okeke </a>
+												<?php echo SITE_URL;?>harriet-okeke" style="color: #142233;">Harriet Okeke </a>
 									</h3>
 									<span _ngcontent-ruf-c3="" style="color: #CBBB7A;" tabindex="0" ng-reflect-router-link="/meet-our-team,4,Hariet Okeke">Student-At-Law</span>
 									<hr _ngcontent-ruf-c3="" style="color: #142233;">
@@ -177,6 +176,9 @@
 						</div>
 						<!--bindings={}-->
 					</div>
+
+					
+					
 					<?php /**
 					<div _ngcontent-ruf-c3="" class="row">
 						

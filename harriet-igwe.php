@@ -37,9 +37,9 @@
                       <!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext. 104"}-->
                       <li class="ng-star-inserted">
                         <i class="flaticon-email" style="padding-right: 10px;"></i>
-                        <a href="mailto:harriet.igwe@republiclaw.ca">harriet.igwe@republiclaw.ca</a>
+                        <a href="mailto:harrieti@republiclaw.ca">HarrietI@republiclaw.ca</a>
                       </li>
-                      <!--bindings={"ng-reflect-ng-if": "harriet.igwe@republiclaw.ca"}-->
+                      <!--bindings={"ng-reflect-ng-if": "harrieti@republiclaw.ca"}-->
                       <li class="ng-star-inserted">
                         <i style="padding-right: 10px;" class="icofont-linkedin"></i>
                        <!-- <a target="_blank" href="https://ca.linkedin.com/in/david-ike-phd-60897a7" class="ng-star-inserted">LinkedIn Profile</a>-->

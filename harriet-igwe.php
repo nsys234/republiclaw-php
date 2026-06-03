@@ -23,7 +23,7 @@
               <div class="attor-details-item">
                 <div class="attor-details-name">
                   <h1>Harriet Igwe</h1>
-                  <h3 style="color: #C8B085; padding-bottom: 0px;">Student-At-Law</h3>
+                  <h3 style="color: #C8B085; padding-bottom: 0px;"></h3>
                 </div>
                 <img alt="Details" class="lawyer-img" srcset="images/dummy.png">
                 <div class="attor-details-left">

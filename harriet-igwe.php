@@ -157,7 +157,7 @@
 									<div class="accordion-body">
 										<ul>
 											<li>English</li>
-											<li>Igbo</li>
+										<!--	<li>Igbo</li>-->
 										</ul>
 									</div>
 								</div>

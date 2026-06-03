@@ -1,4 +1,3 @@
-
 <?php
 	include_once ( 'inc/config.php' );
 	include_once ( 'inc/functions.php' );
@@ -9,7 +8,6 @@
 	
 	include_once ( 'inc/head.php' );
 ?>
-<body>
 <body>
   <app-root _nghost-ruf-c21="" ng-version="15.2.8">
     

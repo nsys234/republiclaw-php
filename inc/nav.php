@@ -31,9 +31,9 @@
                        <!-- <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php // if ($page_name == 'Theodore Oware'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php // echo SITE_URL; ?>meet-our-team,2,Theodore Owar" href="<?php // echo SITE_URL; ?>theodore-oware">Theodore Oware</a>
                         </li>-->
-                        <li _ngcontent-ruf-c19="" class="nav-item">
+                       <!-- <li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'David Ike'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,3,David Ike" href="<?php echo SITE_URL; ?>david-ike">David Ike</a>
-                        </li>
+                        </li>-->
 						<li _ngcontent-ruf-c19="" class="nav-item">
                           <a _ngcontent-ruf-c19="" class="nav-link <?php if ($page_name == 'Harriet Igwe'): echo 'active'; endif; ?>" ng-reflect-router-link="<?php echo SITE_URL; ?>meet-our-team,4,Harriet Igwe" href="<?php echo SITE_URL; ?>harriet-igwe">Harriet Igwe</a>
                         </li>

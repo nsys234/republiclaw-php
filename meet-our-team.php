@@ -112,7 +112,7 @@
 								</div>
 							</div>
 						</div>-->
-						<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+					<!--	<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
 							<div _ngcontent-ruf-c3="" class="image-container" style="display: flex; height: 350px; overflow: hidden; align-items: flex-start;" tabindex="0" ng-reflect-router-link="/meet-our-team,3,David Ike">
 								<a href="
 									<?php echo SITE_URL;?>david-ike">
@@ -131,17 +131,17 @@
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-envelope"></i>
 											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="mailto:david.ike@republiclaw.ca"> david.ike@republiclaw.ca </a>
-											<!--bindings={"ng-reflect-ng-if": "david.ike@republiclaw.ca"}-->
+											<!--bindings={"ng-reflect-ng-if": "david.ike@republiclaw.ca"}--
 										</li>
 										<li _ngcontent-ruf-c3="" style="padding-bottom: 10px !important;">
 											<i _ngcontent-ruf-c3="" class="icofont-phone"></i>
 											<a _ngcontent-ruf-c3="" target="_blank" style="color: #142233; font-size: 14px;" href="tel:1-587-319-5916 Ext 104"> 1-587-319-5916 Ext: 104 </a>
-											<!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext 104"}-->
+											<!--bindings={"ng-reflect-ng-if": "1-587-319-5916 Ext 104"}--
 										</li>
 									</ul>
 								</div>
 							</div>
-						</div>
+						</div>-->
 						<!--bindings={}-->
 						
 						<div _ngcontent-ruf-c3="" data-wow-delay=".3s" class="col-sm-6 col-lg-4 wow animate__animated animate__fadeInUp" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
